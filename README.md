@@ -29,3 +29,20 @@ Objective-C, CoreData, AVFoundation, Photos, Core Location, Push Notifications, 
 <p align="center">
 <img src="images/SalamPlanet/SP1.png" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SalamPlanet/SP2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SalamPlanet/SP3.png" width="230" title="Spirituality">
 </p>
+
+
+# 100Club
+Achieve your fitness goals with 100 Club App, the free, socially interactive fitness app. 100 Club App uses your mobile device’s location services to connect you with other 100 Club members closest to you, to interact, encourage, motivate and achieve your daily 100 point goals together!
+
+Worked remotely with a team of 3-4 developers. 100Club is written in Objective-C, most of the work is done using UIKit and some animations are achieved through sprite-kit.  
+
+### My Role ###
+iOS developer. My responsibilities were, understand the requirements, estimate the tasks, provide feedback and get work done according to estimates.
+
+### Technologies ###
+Objective-C, Kinvey,Sprite Kit, Core Location, Push Notifications, AFNetworking, Firebase, FBSDKLoginKit
+<p align="center">
+<img src="images/100Club/1.png" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/100Club/2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/100Club/3.png" width="230" title="Spirituality">
+</p>
