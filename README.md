@@ -30,6 +30,22 @@ Objective-C, CoreData, AVFoundation, Photos, Core Location, Push Notifications, 
 <img src="images/SalamPlanet/SP1.png" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SalamPlanet/SP2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SalamPlanet/SP3.png" width="230" title="Spirituality">
 </p>
 
+# Bayut – UAE Property Search
+The Bayut App connects you with a vast database of active properties in the UAE, allowing you to find apartments, villas, offices, townhouses and shops – whether for sale or for rent – on the go.
+
+Worked with a team to deliver features and fix issues as soon as possible to the 100k users. Bayut is written in Objective-C. UI is build using Xibs and code.
+
+### My Role ###
+Team consit of three iOS developers. My responsibilites were to estimate the new tasks, develop them and clean the previous written code to modern architecture i-e MVVM.
+
+### Technologies ###
+Objective-C, CoreData, Localization, , Core Location, Push Notifications, AFNetworking, GoogleMaps, Firebase, Flurry
+<p align="center">
+<img src="images/Bayut/1.png" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/Bayut/2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/Bayut/3.png" width="230" title="Spirituality">
+</p>
+
 
 # 100Club
 Achieve your fitness goals with 100 Club App, the free, socially interactive fitness app. 100 Club App uses your mobile device’s location services to connect you with other 100 Club members closest to you, to interact, encourage, motivate and achieve your daily 100 point goals together!
