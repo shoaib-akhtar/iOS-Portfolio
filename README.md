@@ -98,3 +98,42 @@ An easy multiple image picker controller for photo library.
 <a href="https://imgflip.com/gif/37ft7x"><img src="https://i.imgflip.com/37ft7x.gif" title="made at imgflip.com"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://imgflip.com/gif/38fus8"><img src="https://i.imgflip.com/38fus8.gif" title="made at imgflip.com"/></a>
 </p>
+
+
+
+
+## [SlantedView](https://github.com/shoaib-akhtar/SlantedView)
+SBASlantedView is a simple and easy-to-use Slanted View for your iOS apps written in Swift.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/shoaib-akhtar/SlantedView/master/images/1-small.png" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/shoaib-akhtar/SlantedView/master/images/2.png" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+## [SBAProgressHud](https://github.com/shoaib-akhtar/SBAProgressHud)
+SBAProgressHud is a simple and easy-to-use progress HUD for your iOS apps written in Swift.
+
+<p align="center">
+<a href="https://imgflip.com/gif/2lm4y6"><img src="https://i.imgflip.com/2lm4y6.gif" title="made at imgflip.com"/></a>
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/shoaib-akhtar/SBAProgressHud/master/images/1.PNG" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/shoaib-akhtar/SBAProgressHud/master/images/2.PNG" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/shoaib-akhtar/SBAProgressHud/master/images/3.PNG" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/shoaib-akhtar/SBAProgressHud/master/images/4.PNG" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/shoaib-akhtar/SBAProgressHud/master/images/5.PNG" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/shoaib-akhtar/SBAProgressHud/master/images/6.PNG" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+
+## [SBAActionSheetPicker](https://github.com/shoaib-akhtar/SBAActionSheetPicker)
+Easy to use customised action sheet picker inspired by UIAlertController
+
+<p align="center">
+<a href="https://imgflip.com/gif/2bs8md"><img src="https://i.imgflip.com/2bs8md.gif" title="made at imgflip.com"/></a>
+</p>
+
+
