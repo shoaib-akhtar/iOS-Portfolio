@@ -12,7 +12,7 @@ Lead iOS developer and team lead for iOS and Android. Communicating with client,
 ### Technologies ###
 Swift(4-5), CoreData, CoreLocation, AVFoundation, Photos, Push Notifications, Alamofire, Keychain, GoogleMaps, Firebase, Kingfisher, Hero, Lottie-Animations, GoogleSignIn, FBSDKLoginKit
 <p align="center">
-<img src="images/Hidebox/HB1.jpg" width="230"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Hidebox/HB2.jpg" width="230" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Hidebox/HB3.jpg" width="230" title="iPad version">
+<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB1.jpg" width="230"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB2.jpg" width="230" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB3.jpg" width="230" title="iPad version">
 </p>
 
 # [SalamPlanet](https://itunes.apple.com/us/app/salamplanet/id1135829492?mt=8)
