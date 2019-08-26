@@ -73,7 +73,7 @@ I started expensi as a hobby project and later decided to release it on App Stor
 From user flows to UI and development expensi is all done by me. 
 
 ### Technologies ###
-Swift-2, Realm, Graphs, KeychainAccess
+Swift-2, Realm, Graphs, KeychainAccess, Firebase, Flurry, Google Admob
 <p align="center">
 <img src="images/Expensi/1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/Expensi/2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
