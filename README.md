@@ -30,8 +30,7 @@ Objective-C, CoreData, AVFoundation, Photos, Core Location, Push Notifications, 
 <img src="images/SalamPlanet/SP1.png" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SalamPlanet/SP2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SalamPlanet/SP3.png" width="230" title="Spirituality">
 </p>
 
-# [Bayut – UAE Property Search](
-https://itunes.apple.com/pk/app/bayut-uae-property-search/id923263211?mt=8)
+# [Bayut – UAE Property Search](https://itunes.apple.com/pk/app/bayut-uae-property-search/id923263211?mt=8)
 The Bayut App connects you with a vast database of active properties in the UAE, allowing you to find apartments, villas, offices, townhouses and shops – whether for sale or for rent – on the go.
 
 Worked with a team to deliver features and fix issues as soon as possible to the 100k users. Bayut is written in Objective-C. UI is build using Xibs and code.
