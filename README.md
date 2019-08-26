@@ -27,7 +27,7 @@ Sole iOS developer. My responsibilites were to communicate with product owner, g
 ### Technologies ###
 Objective-C, CoreData, AVFoundation, Photos, Core Location, Push Notifications, AFNetworking, Keychain, GoogleMaps, Firebase, FBSDKLoginKit
 <p align="center">
-<img src="images/SalamPlanet/SP1.png" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SalamPlanet/SP2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SalamPlanet/SP3.png" width="230" title="Spirituality">
+<img src="images/SalamPlanet/SP1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SalamPlanet/SP2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SalamPlanet/SP3.jpg" width="230" title="Spirituality">
 </p>
 
 # [Bayut – UAE Property Search](https://itunes.apple.com/pk/app/bayut-uae-property-search/id923263211?mt=8)
@@ -41,9 +41,9 @@ Team consit of three iOS developers. My responsibilites were to estimate the new
 ### Technologies ###
 Objective-C, CoreData, Localization, , Core Location, Push Notifications, AFNetworking, GoogleMaps, Firebase, Flurry
 <p align="center">
-<img src="images/Bayut/1.png" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/Bayut/2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/Bayut/3.png" width="230" title="Spirituality">
+<img src="images/Bayut/1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/Bayut/2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/Bayut/3.jpg" width="230" title="Spirituality">
 </p>
 
 
@@ -58,9 +58,9 @@ iOS developer. My responsibilities were, understand the requirements, estimate t
 ### Technologies ###
 Objective-C, Kinvey, Sprite Kit, Core Location, Push Notifications, AFNetworking, Firebase, FBSDKLoginKit
 <p align="center">
-<img src="images/100Club/1.png" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/100Club/2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/100Club/3.png" width="230" title="Spirituality">
+<img src="images/100Club/1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/100Club/2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/100Club/3.jpg" width="230" title="Spirituality">
 </p>
 
 
