@@ -56,9 +56,27 @@ Worked remotely with a team of 3-4 developers. 100Club is written in Objective-C
 iOS developer. My responsibilities were, understand the requirements, estimate the tasks, provide feedback and get work done according to estimates.
 
 ### Technologies ###
-Objective-C, Kinvey,Sprite Kit, Core Location, Push Notifications, AFNetworking, Firebase, FBSDKLoginKit
+Objective-C, Kinvey, Sprite Kit, Core Location, Push Notifications, AFNetworking, Firebase, FBSDKLoginKit
 <p align="center">
 <img src="images/100Club/1.png" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/100Club/2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/100Club/3.png" width="230" title="Spirituality">
 </p>
+
+
+# Expensi - Free Expense Tracker
+Expensi is a comprehensive expense tracking application for anyone wishing to track their expenses. It's ease of use, full feature and great interface make it an essential tool for every iPhone user. It will save you time and money.
+
+I started expensi as a hobby project and later decided to release it on App Store. It has 5k+ users.
+
+### My Role ###
+From user flows to UI and development expensi is all done by me. 
+
+### Technologies ###
+Swift-2, Realm, Graphs, KeychainAccess
+<p align="center">
+<img src="images/Expensi/1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/Expensi/2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/Expensi/3.jpg" width="230" title="Spirituality">
+</p>
+
