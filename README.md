@@ -7,7 +7,7 @@ An innovative, quick and easy way to keep track of your possessions giving you t
 I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM-Coordinators). Hidebox is built with Xcode and written entirely in Swift 5. It utilizes Auto Layout for UI design. Hidebox is my ongoing project.
 
 ### My Role ###
-Lead iOS developer and team lead for iOS and Android. Communicating with client, understanding requirements and sprint planning.
+Lead iOS developer and team lead for iOS and Android. Communicating with clients, understanding requirements and sprint planning.
 
 ### Technologies ###
 Swift(4-5), CoreData, CoreLocation, AVFoundation, Photos, Push Notifications, Alamofire, Keychain, GoogleMaps, Firebase, Kingfisher, Hero, Lottie-Animations, GoogleSignIn, FBSDKLoginKit
@@ -19,10 +19,10 @@ Swift(4-5), CoreData, CoreLocation, AVFoundation, Photos, Push Notifications, Al
 The Ultimate Muslim Lifestyle App.
 Explore Your Muslim Lifestyle – Socialize, Eat, Play and Pray with SALAM PLANET!
 
-Worked with a fast paced team to deliver features as soon as possible to the 500k users. SalamPlanet is written in Objective-C with some Swift modules. It has Storyboards as well as nibs. 
+Worked with a fast-paced team to deliver features as soon as possible to the 500k users. SalamPlanet is written in Objective-C with some Swift modules. It has Storyboards as well as nibs. 
 
 ### My Role ###
-Sole iOS developer. My responsibilites were to communicate with product owner, guide UI/UX team about the future flows. 
+Sole iOS developer. My responsibilities were to communicate with the product owner, guide UI/UX team about the future flows. 
 
 ### Technologies ###
 Objective-C, CoreData, AVFoundation, Photos, Core Location, Push Notifications, AFNetworking, Keychain, GoogleMaps, Firebase, FBSDKLoginKit
@@ -36,7 +36,7 @@ The Bayut App connects you with a vast database of active properties in the UAE,
 Worked with a team to deliver features and fix issues as soon as possible to the 100k users. Bayut is written in Objective-C. UI is build using Xibs and code.
 
 ### My Role ###
-Team consit of three iOS developers. My responsibilites were to estimate the new tasks, develop them and clean the previous written code to modern architecture i-e MVVM.
+The team consists of three iOS developers. My responsibilities were to estimate the new tasks, develop them and clean the previously written code to modern architecture i-e MVVM.
 
 ### Technologies ###
 Objective-C, CoreData, Localization, , Core Location, Push Notifications, AFNetworking, GoogleMaps, Firebase, Flurry
@@ -138,3 +138,8 @@ SBASlantedView is a simple and easy-to-use Slanted View for your iOS apps writte
 </p>
 
 
+## Contact Info:
+
+- Email: shoaib.akhtar1@live.com
+- LinkedIn: [Shoaib Akhtar](https://www.linkedin.com/in/shoaib-akhtar-1b758271/)
+- Whats App: [Phone](https://api.whatsapp.com/send?phone=+923005077375)
