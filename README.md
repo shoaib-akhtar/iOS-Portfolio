@@ -142,6 +142,7 @@ SBASlantedView is a simple and easy-to-use Slanted View for your iOS apps writte
 
 - Email: shoaib.akhtar1@live.com
 - LinkedIn: [Shoaib Akhtar](https://www.linkedin.com/in/shoaib-akhtar-1b758271/)
+- Facebook: [Shoaib Akhtar](https://www.facebook.com/l094400)
 - Whats App: [Phone](https://api.whatsapp.com/send?phone=+923005077375)
 - Scan QR Code
 
