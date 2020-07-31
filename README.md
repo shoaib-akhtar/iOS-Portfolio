@@ -15,6 +15,15 @@ Tech lead iOS in CareemPAY vertical. We manage to extract CareemPAY from the mon
 
 We have also managed to remove singleton SDK initialization which was a huge task as so many modules were dependent on it. We have also deprecated concrete type dependencies injections and replace them abstract type which has helped us increasing test coverage. 
 
+### Outcome ###
+- Reduce support tickets from 120 to less then 20 for a month
+- Significantly reduced crashes. 99% crash free users. 
+- System stability 
+- Testable code
+- Increased test coverage
+- Decoupled code
+- Readable code
+
 ### Technologies ###
 Swift(4-5), Firebase, Cucumberish, Gherkin, Kingfisher, lottie-ios, CI -> Bitrise, CD -> Firebase
 <p align="center">
