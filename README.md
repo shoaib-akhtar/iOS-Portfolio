@@ -1,6 +1,26 @@
 Professionally taught iOS Engineer with 6+ years experience. 
 I have spent my career leading client-side iOS development in Denmark and Pakistan.
 I have done multiple iOS applications ranging from social apps, classified ads and expense tracker.
+# [Careem](https://apps.apple.com/us/app/careem-rides-food-delivery/id592978487)
+Step into a world where you can get everyday needs done on one app! Book a ride, order food from restaurants or groceries from shops and recharge your mobile balance all with online payments.
+
+With one single login, you can discover all your local services all in one place, giving you more time to focus on the things that matter most. And there’s more! Explore our loyalty program Careem Rewards, a world of discounts on rides and food, as well as offers from partners, donations to charities and more. Wondering about points? Earn them simply by using the services you need.
+
+Careem Pay
+
+A unified, safe and secure online payment system for all Careem services that also lets you make other frequent payments! 
+
+### My Role ###
+Tech lead iOS in CareemPAY vertical. We manage to extract CareemPAY from the monolithic Careem app and build our own vertical. My responsibilities include ensuring the stability of the system using automated testing. We have managed to increase unit test coverage 0% to 60% and more than 90% of our modules are end to end UI tested. We have also decoupled CareemPAY from the parent app as it was tightly couple in legacy code. 
+
+We have also managed to remove singleton SDK initialization which was a huge task as so many modules were dependent on it. We have also deprecated concrete type dependencies injections and replace them abstract type which has helped us increasing test coverage. 
+
+### Technologies ###
+Swift(4-5), Firebase, Cucumberish, Gherkin, Kingfisher, lottie-ios, CI -> Bitrise, CD -> Firebase
+<p align="center">
+<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/careem1.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/careem2.png" width="230" title="Pay">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/careem3.png" width="230" title="Upcoming">
+</p>
+
 # [Hidebox](https://itunes.apple.com/ph/app/hidebox/id1408444079?mt=8)
 An innovative, quick and easy way to keep track of your possessions giving you the ease of having the information on you when you need it the most.
 
